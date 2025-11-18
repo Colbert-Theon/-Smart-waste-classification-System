@@ -1,0 +1,5 @@
+{
+  "name": "Smart Waste Classification System - Cameroon",
+  "description": "An AI-powered assistant to help communities in Cameroon correctly identify and sort household and municipal waste. This tool uses image recognition to classify waste and provide multi-lingual sorting guidance and educational tips, even in low-connectivity environments.",
+  "requestFramePermissions": []
+}
